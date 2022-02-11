@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"hu.gov.allamkincstar.devizavaltas","l":"CertificatValidator"},{"p":"hu.gov.allamkincstar.devizavaltas","l":"FrameDeviza"}]

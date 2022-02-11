@@ -1,0 +1,51 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/JAVA_PROJ/devizavaltas/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/JAVA_PROJ/devizavaltas/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'devizavaltas 1.0 API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/JAVA_PROJ/devizavaltas/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'devizavaltas 1.0 API'
+hu.gov.allamkincstar.devizavaltas
+'C:/JAVA_PROJ/devizavaltas/src/main/java/hu/gov/allamkincstar/devizavaltas/CertificatValidator.java'
+'C:/JAVA_PROJ/devizavaltas/src/main/java/hu/gov/allamkincstar/devizavaltas/FrameDeviza.java'
+C:\JAVA_PROJ\devizavaltas\src\main\java = 1644504289861
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\allclasses-index.html = 1644579361955
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\allclasses.html = 1644579362018
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\allpackages-index.html = 1644579362002
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\constant-values.html = 1644579361517
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\deprecated-list.html = 1644579362018
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\element-list = 1644579361437
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\help-doc.html = 1644579362071
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\index-all.html = 1644579361955
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\index.html = 1644579362033
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\member-search-index.js = 1644579361955
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\member-search-index.zip = 1644579361955
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\overview-tree.html = 1644579361570
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\package-search-index.js = 1644579361586
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\package-search-index.zip = 1644579361887
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\script.js = 1644579362134
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\search.js = 1644579362156
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\serialized-form.html = 1644579361532
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\stylesheet.css = 1644579362087
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\type-search-index.js = 1644579361887
+C:\JAVA_PROJ\devizavaltas\target\site\apidocs\type-search-index.zip = 1644579361934
